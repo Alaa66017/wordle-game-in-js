@@ -1,0 +1,6 @@
+# install
+node_modules
+
+# build
+wordle-game-win32-x64
+wordle-game-win32-x64.zip

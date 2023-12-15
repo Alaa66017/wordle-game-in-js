@@ -1,0 +1,17 @@
+{
+  "name": "wordle-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . wordle-game --platform=win32 --arch=x64"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.0.0",
+    "electron-packager": "^17.1.2"
+  }
+}
